@@ -1,0 +1,2 @@
+module MapspacesHelper
+end
